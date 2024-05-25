@@ -7,11 +7,10 @@ session:
 - Close valve 3, open pump 1 for 10 seconds
 - Turn off pump 1, turn on pump 2 for 30 seconds.
 - Finally, turn off pump 2.
+ 
 At the end of this process, pump 2 will turn off. Suppose that the next 60 seconds the above
 process will be repeated.
-Students implement the irrigation system described above, illustrating each device (valve or
-pump) with an LED light. The light will come on when the valve is opened or the pump is
-turned on. Otherwise, the light will turn off. A group of 5 - 7 students is allowed in this project
+
 # Software requirement
 - STM32Cube IDE
 - Proteus 8
